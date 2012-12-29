@@ -19,6 +19,9 @@ namespace ArtScramble
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        Vector2 mPosition = new Vector2(0, 0);
+        Texture2D mSpriteTexture;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
