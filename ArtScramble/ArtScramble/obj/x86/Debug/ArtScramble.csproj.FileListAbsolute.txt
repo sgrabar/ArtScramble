@@ -1,0 +1,7 @@
+C:\Users\Osmond\Dropbox\mailServer\ArtScramble\ArtScramble\ArtScramble\bin\x86\Debug\Content\rough_player.xnb
+C:\Users\Osmond\Dropbox\mailServer\ArtScramble\ArtScramble\ArtScramble\bin\x86\Debug\ArtScramble.exe
+C:\Users\Osmond\Dropbox\mailServer\ArtScramble\ArtScramble\ArtScramble\bin\x86\Debug\ArtScramble.pdb
+C:\Users\Osmond\Dropbox\mailServer\ArtScramble\ArtScramble\ArtScramble\obj\x86\Debug\ArtScramble.csprojResolveAssemblyReference.cache
+C:\Users\Osmond\Dropbox\mailServer\ArtScramble\ArtScramble\ArtScramble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Osmond\Dropbox\mailServer\ArtScramble\ArtScramble\ArtScramble\obj\x86\Debug\ArtScramble.exe
+C:\Users\Osmond\Dropbox\mailServer\ArtScramble\ArtScramble\ArtScramble\obj\x86\Debug\ArtScramble.pdb
